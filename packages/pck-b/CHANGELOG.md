@@ -1,5 +1,19 @@
 # Changelog
 
+## pck-b@0.1.0...pck-b@0.2.0-rc.1
+
+[compare changes](https://github.com/LouisMazel/relizy-independent/compare/pck-b@0.1.0...pck-b@0.2.0-rc.1)
+
+### 🚀 Features
+
+- Modify package b ([c4d1100](https://github.com/LouisMazel/relizy-independent/commit/c4d1100))
+- Modify package b ([93429c4](https://github.com/LouisMazel/relizy-independent/commit/93429c4))
+
+### ❤️ Contributors
+
+- LouisMazel ([@LouisMazel](https://github.com/LouisMazel))
+
+
 ## pck-b@0.2.0-rc.0...pck-b@0.2.0-rc.0
 
 [compare changes](https://github.com/LouisMazel/relizy-independent/compare/pck-b@0.2.0-rc.0...pck-b@0.2.0-rc.0)
