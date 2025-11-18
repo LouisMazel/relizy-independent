@@ -1,5 +1,20 @@
 # Changelog
 
+**Multiple Packages Updated** - 2025-11-18
+
+## pck-b@0.2.0-beta.0...pck-b@0.2.0-rc.0
+
+[compare changes](https://github.com/LouisMazel/relizy-independent/compare/pck-b@0.2.0-beta.0...pck-b@0.2.0-rc.0)
+
+No relevant changes for this release
+
+## pck-c@0.0.4-beta.0...pck-c@0.0.4-rc.0
+
+[compare changes](https://github.com/LouisMazel/relizy-independent/compare/pck-c@0.0.4-beta.0...pck-c@0.0.4-rc.0)
+
+No relevant changes for this release
+
+
 **Multiple Packages Updated** - 2025-11-17
 
 ## pck-b@0.1.0...pck-b@0.2.0-beta.0

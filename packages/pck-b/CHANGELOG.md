@@ -1,5 +1,12 @@
 # Changelog
 
+## pck-b@0.2.0-beta.0...pck-b@0.2.0-beta.0
+
+[compare changes](https://github.com/LouisMazel/relizy-independent/compare/pck-b@0.2.0-beta.0...pck-b@0.2.0-beta.0)
+
+No relevant changes for this release
+
+
 ## pck-b@0.1.0...pck-b@0.1.0
 
 [compare changes](https://github.com/LouisMazel/relizy-independent/compare/pck-b@0.1.0...pck-b@0.1.0)
