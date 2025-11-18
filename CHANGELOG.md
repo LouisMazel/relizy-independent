@@ -2,6 +2,27 @@
 
 **Multiple Packages Updated** - 2025-11-18
 
+## pck-b@0.2.0-rc.0...pck-b@0.2.0-rc.1
+
+[compare changes](https://github.com/LouisMazel/relizy-independent/compare/pck-b@0.2.0-rc.0...pck-b@0.2.0-rc.1)
+
+### 🚀 Features
+
+- Modify package b ([93429c4](https://github.com/LouisMazel/relizy-independent/commit/93429c4))
+
+### ❤️ Contributors
+
+- LouisMazel ([@LouisMazel](https://github.com/LouisMazel))
+
+## pck-c@0.0.4-rc.0...pck-c@0.0.4-rc.1
+
+[compare changes](https://github.com/LouisMazel/relizy-independent/compare/pck-c@0.0.4-rc.0...pck-c@0.0.4-rc.1)
+
+No relevant changes for this release
+
+
+**Multiple Packages Updated** - 2025-11-18
+
 ## pck-b@0.2.0-beta.0...pck-b@0.2.0-rc.0
 
 [compare changes](https://github.com/LouisMazel/relizy-independent/compare/pck-b@0.2.0-beta.0...pck-b@0.2.0-rc.0)
